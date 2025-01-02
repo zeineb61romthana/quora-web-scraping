@@ -1,0 +1,6 @@
+JSON
+Selenium
+webdriver_manager
+BeautifulSoup
+time
+python
