@@ -1,6 +1,3 @@
-JSON
-Selenium
-webdriver_manager
-BeautifulSoup
-time
-python
+selenium
+webdriver-manager
+beautifulsoup4
