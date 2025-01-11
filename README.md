@@ -1,5 +1,7 @@
 # 🏋️‍♂️ Quora Web Scraping: Workout & Fitness Q&A
 
+![Alt Text](how-to-use-quora-for-marketing-2048x1077.webp)
+
 This project focuses on scraping workout and fitness-related questions and answers from **Quora** using **Selenium** and **BeautifulSoup**. The goal was to extract valuable content related to fitness, resulting in around **30 JSON files** containing structured Q&A data.
 
 After scraping, the data from all JSON files was concatenated into a unified format for better visualization and analysis, creating a structured dataset of question-answer pairs.
